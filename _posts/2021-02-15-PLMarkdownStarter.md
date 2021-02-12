@@ -4,4 +4,4 @@ author: Paul-Louis Biondi
 title:
 ---
 
-I was browsing the digital collections in the Princeton Library when I came across [Ho! For the Open Country: The Promise of the Public Park] (https://dpul.princeton.edu/open-country), curated by Emma Sarconi.
+I was browsing the digital collections in the Princeton Library when I came across [Ho! For the Open Country: The Promise of the Public Park](https://dpul.princeton.edu/open-country), curated by Emma Sarconi.
