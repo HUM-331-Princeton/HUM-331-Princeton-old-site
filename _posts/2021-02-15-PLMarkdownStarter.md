@@ -13,7 +13,8 @@ Both of these New Deal projects – public parks and redlining – radically tra
 
 ## Sources:
 I was browsing the digital collections in the Princeton Library when I came across [Ho! For the Open Country: The Promise of the Public Park](https://dpul.princeton.edu/open-country), curated by Emma Sarconi. This collection contains both plans for public parks as well as pictures of people enjoying the parks. It speaks as well to the visions and influences of the landscape architects who undertook the projects, such as Frederick Law Olmsted and Ebenezer Howard.
-This primary source is an important basis for my project, but I am also looking at maps of New York City from the same time period that are a part of the Lewis Library collection at Princeton University and currently available online due to COVID restrictions:
+
+This primary source is an important basis for my project, but I am also looking at maps of New York City from the same time period that are in the Lewis Library at Princeton University and currently available as a part of the online collection:
 * [The city of New York: Population](https://catalog.princeton.edu/catalog/6515175#view)
 * [The city of New York: Rental per Family Quarter](https://catalog.princeton.edu/catalog/6515181#view)
 * [The city of New York: Predominant Residential Type](https://catalog.princeton.edu/catalog/6515179#view)
