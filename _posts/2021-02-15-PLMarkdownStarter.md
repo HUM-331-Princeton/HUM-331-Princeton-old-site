@@ -17,7 +17,7 @@ Both of these New Deal projects – public parks and redlining – radically tra
 ## Sources
 I was browsing the digital collections in the Princeton Library when I came across [Ho! For the Open Country: The Promise of the Public Park](https://dpul.princeton.edu/open-country), curated by Emma Sarconi. This collection contains both plans for public parks as well as pictures of people enjoying the parks. The people depicted are all elegently dressed and seem to originate from a white, middle or upper class background. The collection speaks as well to the visions and influences of the landscape architects who undertook the projects, such as Frederick Law Olmsted and Ebenezer Howard.
 
-This primary source is an important basis for my project, but I am also looking at maps of New York City from the same time period that are in the Lewis Library at Princeton University and currently available as a part of the online collection:
+This primary source collection is an important basis for my project, but I am also looking at maps of New York City from the same time period that are in the Lewis Library at Princeton University and currently available as a part of the online catalogue:
 * [The city of New York: Population](https://catalog.princeton.edu/catalog/6515175#view)
 * [The city of New York: Rental per Family Quarter](https://catalog.princeton.edu/catalog/6515181#view)
 * [The city of New York: Predominant Residential Type](https://catalog.princeton.edu/catalog/6515179#view)
@@ -28,4 +28,4 @@ These maps commissioned by the mayors’ office in 1935 provide context for the 
 
 In addition to these primary sources, I am planning on integrating some of the scholarship that I have found about public parks and exclusion. William O’Brien’s book, “Landscapes of Exclusion: State Parks and Jim Crow in the American South,” will serve as an important first step in my research. His work focuses mostly on physical and legal exclusion, which is important, but I would also like to find more about the cultivation of public parks through practices such as promenading and picnicking to form spaces made for the white elite of New York. 
 
-Capturing the dynamic nature of physical transformation and the social and political discourse and dynamics will probably present the greatest challenge to my project. Finding more pictures like the ones in the Ho! For the Open Country collection will be important as they give important insight into the nature and use of parks at the time. 
+Capturing the dynamic nature of physical transformation and the socio-political discourse and dynamics will probably present the greatest challenge to the project. Finding more pictures like the ones in the Ho! For the Open Country collection will be paramount as they give important insight into the nature and use of parks at the time. 
