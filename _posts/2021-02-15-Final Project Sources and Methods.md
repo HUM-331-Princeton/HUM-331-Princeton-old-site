@@ -10,6 +10,7 @@ I am interested in exploring private forms of communication (diaries, letters, e
 
 <img src="https://iiif-cloud.princeton.edu/iiif/2/d1%2Fe6%2Fa8%2Fd1e6a8077c5045c58e01caf28a22c46f%2Fintermediate_file/full/1000,1291/0/default.jpg" width="500" height="645" alt = "Title Page of Wade Manuscript"/>
 
+###### *Title Page of Nellie Martin Wade's Manuscript*
 
 Other documents written by women in the collections include:
 * [A letter between two sisters, sent from California to New York in 1855](https://findingaids.princeton.edu/collections/C1446/c13)
