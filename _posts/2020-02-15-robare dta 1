@@ -1,0 +1,26 @@
+---
+layout: post
+author: Gabriel Robare
+title: Welcome to HUM 331
+---
+
+Stevie Wonder famously sang that "Music is a world within ourselves, with a language we all understand." This was true in 1977 and was true too in 1810 and in 1200. For the final project, I'm interestered in using two musical scores from different points in the last 800 years to compare their design and structure and to analyze how music is rendered into a two-dimensional, visual form.
+
+##The Sources
+
+The two wources I would analyze and compare are as follows:
+
+* [Troubadour Chansonnier](https://catalog.princeton.edu/catalog/SCSB-8801531), c.1200-1250
+* [Piano music](https://iiif.lib.harvard.edu/manifests/view/drs:49547288$3i), c.1840
+
+The Troubadour Chansonnier is a score of French troubadour songs. It is held in Firestone (and is not available online) in microfilm and is about 170 pages long. Piano music (I can't discern a more specific title) is a short piano score copied out by a Frenchman for a friend. It's available online through the Harvard Mirador Viewer.
+
+##The Analysis
+
+It's easy to view this music on the page. But like any language, musical notation is a representation of information in another form. The purpose of my final project would be to associate a recording of the music with the pictures of the score we still have. This could be done in a dynamic way: the user could click anywhere on the score and the music could start from that point; perhaps if the user hovered over a certain measure it could bring up an image of the music rendered in more modern form or with modern chord symbols or other notation.
+
+In order to analyze these two sources in particular and to make this project a reality, I would need to use the online reader for the 19th century source and––to be honest––learn how to use a microfilm reader for the 13th century source. Beyond then, I would need to learn some a significant amount more Markdown syntax in order to handle the GUI necessary to make the project work as explained above. This I imagine will be a serious challenge: I have some experience with coding for GUI but not a lot, and I imagine this will be a complicated operation to work as planned. Also, I don't know how difficult it will be to find recordings of these pieces––if necessary, I could try to recreate them myself.
+
+![Piano music score](49547894.jpg)
+
+In addiiton, the short score also includes a note from the writer to the musician. (See the image above: it seems to read in part "Offert à Mademoiselle Léonia ... en remerciant de les jolies variations dur, c'est pour toi. L'auteur, L. Puget": "To Miss Léonia ... in thanks for the pretty, hard variations, this is for you. Signed, L. Puget.") I'm not sure if this will become relevant to the project as I plan it, but it may be important to research and consider how written music was created in the periods of these two documents. How common was it that copied-down music was shared from friend to friend––was there any better way to get music to play?
