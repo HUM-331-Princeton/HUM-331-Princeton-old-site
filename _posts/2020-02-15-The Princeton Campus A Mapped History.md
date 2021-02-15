@@ -34,3 +34,7 @@ Below are some details from the 1932 and 1948 maps that were referenced above.
 ![The Commons Detail](/images/1948-Princeton-Map-Commons-Detail.jpg)
 ## The 'Prince' Detail – 1948 Map ##
 ![The Prince Detail](/images/1948-Princeton-Map-The-Prince-Detail.jpg)
+
+
+![Test cane spree]({{HUM-331-Princeton}}/images/1932-Princeton-Map-Cane-Spree-Detail.jpg)
+![Test Boston letter]({{HUM-331-Princeton}}/images/Boston News-Letter.jpg)
