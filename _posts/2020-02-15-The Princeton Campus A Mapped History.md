@@ -37,4 +37,6 @@ Below are some details from the 1932 and 1948 maps that were referenced above.
 
 
 ![Test cane spree]({{HUM-331-Princeton}}/images/1932-Princeton-Map-Cane-Spree-Detail.jpg)
+
+
 ![Test Boston letter]({{HUM-331-Princeton}}/images/Boston News-Letter.jpg)
