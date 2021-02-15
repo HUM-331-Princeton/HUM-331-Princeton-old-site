@@ -21,18 +21,14 @@ Unlike Wade's manuscript, these documents do not depict exploratory journeys. Ne
 
 ## Methods
 
-One category of digital tools that interests me are those that deal with geographic data. This is particularly relevant when looking at records of traveling and of journeys, which center heavily around location. Tools such as StoryMap and TimeMapper seem especially appropiate for this task, as they allow for the combination of media and 
-
-I would also be interested in tools that provide new ways to display handwritten text, though I am not sure what tools exist in this category.
+One category of digital tools that interests me are those that deal with geographic data. This is particularly relevant when looking at records of traveling and of journeys, which center heavily around location. Tools such as StoryMap and TimeMapper seem especially appropiate for this task, as they allow for the combination of media and location-specific information. I would also be interested in tools that provide new ways to display or interact with handwritten text, though I am not sure what tools exist in this category. 
 
 ![StoryMap Example](https://multimedia.report/images/tutorials/multimedia-tools/storymap-js.jpg)
-## Purpose
+## Purpose and Challenges
 
-I would hope viewers of this project could gain a new perspective and insight on women's experiences expressed through their private communications. Though I will likely end up working with a different set of sources, I would hope to
-
-## Challenges
+I would hope viewers of this project could gain a new perspective and insight on women's experiences expressed through their private communications. Though I will likely end up working with a different set of sources, through this project I would hope to (in some way) illuminate the experience and writing of indivudals who are not commonly represented in their historical context. 
 
 One challenge I anticipate with this project is supplementing documents in the digital collections with other external research, especially as there may be little or no information about the authors of these documents besides the documents themselves.
-Another concern 
+Another concern I have is navigating the scope of the project
 
 
