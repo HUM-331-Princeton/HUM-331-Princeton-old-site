@@ -34,6 +34,6 @@ One challenge I anticipate with this project is supplementing documents in the d
 Another concern I have is navigating the scope of the project - there is clearly a depth of information found in just one document and I am interested to see how broadly the final project will span the documents I eventually use for the project. Will the project focus on a few key ideas from just one source? Will multiple sources be brought together? I think that the digital tools used for the project will help answer this question, as one platform may be best suited for a more intense examination, while another might perform well with multiple sources. 
 
 ##
-### I am excited to see where this project leads! I'm looking forward to the research process and to seeing how digital tools can illuminate the sources further.
+### I am excited to see where this project leads! I'm looking forward especially to the research process and to learning how digital methods can illuminate sources in new ways.
 
 
