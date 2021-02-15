@@ -25,6 +25,7 @@ One category of digital tools that interests me are those that deal with geograp
 
 I would also be interested in tools that provide new ways to display handwritten text, though I am not sure what tools exist in this category.
 
+![StoryMap Example](https://multimedia.report/images/tutorials/multimedia-tools/storymap-js.jpg)
 ## Purpose
 
 I would hope viewers of this project could gain a new perspective and insight on women's experiences expressed through their private communications. Though I will likely end up working with a different set of sources, I would hope to
