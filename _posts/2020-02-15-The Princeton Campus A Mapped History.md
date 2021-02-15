@@ -34,3 +34,5 @@ Below are some details from the 1932 and 1948 maps that were referenced above.
 ![The Commons Detail](/images/1948-Princeton-Map-Commons-Detail.jpg)
 ## The 'Prince' Detail – 1948 Map ##
 ![The Prince Detail](/images/1948-Princeton-Map-The-Prince-Detail.jpg)
+
+![Test Cane Spree Detail](https://github.com/jpgarcia2023/HUM-331-Princeton.github.io/blob/master/images/1932-Princeton-Map-Cane-Spree-Detail.jpg?raw=true)
