@@ -27,10 +27,10 @@ And while such an endeavor would require a large amount of historical research, 
 # Map Details #
 Below are some details from the 1932 and 1948 maps that were referenced above.
 ## Cane Spree Detail – 1932 Map ##
-![Cane Spree Detail]({{HUM-331-Princeton.github.io}}/images/1932-Princeton-Map-Cane-Spree-Detail.jpg)
+![Cane Spree Detail]({{hum-331-princeton.github.io}}/images/1932-Princeton-Map-Cane-Spree-Detail.jpg)
 ## "Old North" Detail – 1932 Map ##
-![Old North Detail]({{HUM-331-Princeton.github.io}}/images/1932-Princeton-Map-Old-North-Detail.jpg)
+![Old North Detail]({{hum-331-princeton.github.io}}/images/1932-Princeton-Map-Old-North-Detail.jpg)
 ## The Commons Detail – 1948 Map ##
-![The Commons Detail]({{HUM-331-Princeton.github.io}}/images/1948-Princeton-Map-Commons-Detail.jpg)
+![The Commons Detail]({{hum-331-princeton.github.io}}/images/1948-Princeton-Map-Commons-Detail.jpg)
 ## The 'Prince' Detail – 1948 Map ##
-![The Prince Detail]({{HUM-331-Princeton.github.io}}/images/1948-Princeton-Map-The-Prince-Detail.jpg)
+![The Prince Detail]({{hum-331-princeton.github.io}}/images/1948-Princeton-Map-The-Prince-Detail.jpg)
