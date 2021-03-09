@@ -4,7 +4,10 @@ Author: Levi Blinder
 excerpt_separator: <!--more-->
 Title: Early Board Games in Ancient Europe and Asia
 ---
-<iframe src="https://uploads.knightlab.com/storymapjs/3300ccceabf8b03fdd288fe840c4eea8/dta-2-storymap/index.html" style = "width:100%; height:800px;" ></iframe>
+<figure class="video_container">
+  <iframe src="https://uploads.knightlab.com/storymapjs/3300ccceabf8b03fdd288fe840c4eea8/dta-2-storymap/index.html" style = "width:100%; height:800px;" ></iframe>
+</figure>
+
 <!--more-->
 
 ### What historical narrative are you trying to express?
