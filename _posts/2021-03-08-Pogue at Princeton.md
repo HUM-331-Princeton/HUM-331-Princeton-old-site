@@ -54,13 +54,13 @@ Overall, Pogue's life is yet one more that's woven into the larger fabric of Pri
 ### Bibliography ###
 *Not including the numerous articles from* The Daily Princetonian *which are cited in a following section for ease of reading.*
 
-“#206 - Princeton Alumni Weekly. Vol.19 (1918-1919). - Full View | HathiTrust Digital Library | HathiTrust Digital Library.” Accessed March 8, 2021. [Link.](https://babel.hathitrust.org/cgi/pt?id=njp.32101059356772&view=1up&seq=206&q1=pogue)
+“#206 - Princeton Alumni Weekly. Vol.19 (1918-1919). - Full View - HathiTrust Digital Library - HathiTrust Digital Library.” Accessed March 8, 2021. [Link.](https://babel.hathitrust.org/cgi/pt?id=njp.32101059356772&view=1up&seq=206&q1=pogue)
 
-“1756: Nassau Hall | Princetoniana Museum.” Accessed March 8, 2021. [Link.](https://www.princetonianamuseum.org/artifact/94438bcd-2455-4b8d-8e2e-0a6fd82be80f)
+“1756: Nassau Hall - Princetoniana Museum.” Accessed March 8, 2021. [Link.](https://www.princetonianamuseum.org/artifact/94438bcd-2455-4b8d-8e2e-0a6fd82be80f)
 
-“1918 Pandemic Influenza Historic Timeline | Pandemic Influenza (Flu) | CDC,” April 18, 2019. [Link.](https://www.cdc.gov/flu/pandemic-resources/1918-commemoration/pandemic-timeline-1918.htm)
+“1918 Pandemic Influenza Historic Timeline - Pandemic Influenza (Flu) - CDC,” April 18, 2019. [Link.](https://www.cdc.gov/flu/pandemic-resources/1918-commemoration/pandemic-timeline-1918.htm)
 
-“1923: Henry Hall | Princetoniana Museum.” Accessed March 8, 2021. [Link.](https://www.princetonianamuseum.org/artifact/1b11eb26-2375-4538-88ff-d5228dcbe880)
+“1923: Henry Hall - Princetoniana Museum.” Accessed March 8, 2021. [Link.](https://www.princetonianamuseum.org/artifact/1b11eb26-2375-4538-88ff-d5228dcbe880)
 
 Ann Senefeld. “The Pogue’s of Harvey Avenue.” Accessed March 8, 2021. [Link.](http://www.diggingcincinnati.com/2013/08/the-pogues-of-harvey-avenue.html)
 
@@ -86,15 +86,15 @@ Mellby, Julie. “Henry Hall Decoration.” Graphic Arts, August 18, 2017. [Link
 
 “Princeton University Weekly Bulletin 16 October 1926 — Princeton Periodicals.” Accessed March 8, 2021. [Link.](https://papersofprinceton.princeton.edu/princetonperiodicals/?a=d&d=WeeklyBulletin19261016-01.2.3&srpos=3&e=------192-en-20--1--txt-txIN-pogue------)
 
-“Reference: Henry Hall | Princetoniana Museum.” Accessed March 8, 2021. [Link.](https://www.princetonianamuseum.org/reference/77e9db58-1d82-4ed7-9a39-2d288e9dcd62)
+“Reference: Henry Hall - Princetoniana Museum.” Accessed March 8, 2021. [Link.](https://www.princetonianamuseum.org/reference/77e9db58-1d82-4ed7-9a39-2d288e9dcd62)
 
 Princeton Alumni Weekly. “Samuel E Pogue ’41 *68,” January 21, 2016. [Link.](https://paw.princeton.edu/memorial/samuel-e-pogue-%E2%80%9941-68)
 
 “Samuel Pogue Sr. (1832-1912) - Find A Grave Memorial.” Accessed March 8, 2021. [Link.](https://www.findagrave.com/memorial/79015928/samuel-pogue)
 
-“The Casino | Princetoniana.” Accessed March 8, 2021. [Link.](https://princetoniana.princeton.edu/campus/timeline/1897/casino)
+“The Casino - Princetoniana.” Accessed March 8, 2021. [Link.](https://princetoniana.princeton.edu/campus/timeline/1897/casino)
 
-“Upper Pyne · Princeton Lost · Princeton Lost.” Accessed March 8, 2021. [Link.](http://vrc.princeton.edu/princeton_lost/s/pl/page/upper-pyne)
+“Upper Pyne - Princeton Lost - Princeton Lost.” Accessed March 8, 2021. [Link.](http://vrc.princeton.edu/princeton_lost/s/pl/page/upper-pyne)
 
 “WWI_memorials.Pdf.” Accessed March 8, 2021. [Link.](https://blogs.princeton.edu/mudd/wp-content/uploads/sites/41/mt/docs/WWI_memorials.pdf)
 
