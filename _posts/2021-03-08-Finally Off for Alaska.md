@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sophie Goldman
-title: "Finally Off for Alaska"
+title: Finally Off for Alaska
 excerpt_separator: <!--more-->
 ---
 
