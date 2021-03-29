@@ -12,7 +12,6 @@ For this project, I wanted to continue looking at activism and queer activism, b
 I think that this document is interesting and potentially useful when looking at activism and social movements on campus as it captures a moment in which a student organization is seeking to engage with a large institution to create change on a policy level. They are going through existing systems, as an outside entity themselves. Thus, I think what is useful through the XML markup is looking at the structures, people, and authority hierarchies with which the Queer Graduate Caucus engages. The XML tagging and creation of hierarchy allows people to consider the relationality of individuals and advocacy organization to structural power, the affirmation and rejection of institutions in social movements and advocacy groups, and the hierarchies within the institution itself.
 
 Because this document is born digital, there is no picture of it attached to the post.
-![image](https://user-images.githubusercontent.com/78381916/112913811-825e2900-90c8-11eb-895b-673989baef35.png)
 
 
 ## The Queer Graduate Caucus' Open Letter to the Administration
