@@ -16,7 +16,8 @@ Because this document is born digital, there is no picture of it attached to the
 
 ## The Queer Graduate Caucus' Open Letter to the Administration
 
-'''XML
+```XML
+
 <XML>
     <openletter>
         <addressed>To whom it may concern</addressed> – 
@@ -44,4 +45,4 @@ Because this document is born digital, there is no picture of it attached to the
     </openletter>
 </XML>
 
-'''
+```
