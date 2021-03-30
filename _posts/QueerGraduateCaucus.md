@@ -25,7 +25,51 @@ Because this document is born digital, there is no picture of it attached to the
             <sit>In light of the larger discussions on the topic of <iss>diversity</iss> and <iss>inclusion</iss> which have been happening on <place>campus</place> <time>of late</time></sit>, the <org>Queer Graduate Caucus</org> would like to highlight some concerns relating to <comm>LGBTQIA+ <body>graduate students</body></comm>. <time>Last year</time> several of our <position>officers</position> were included in <dialogue>panel discussions and conversations</dialogue> with <position>administrators</position> and some of these issues were raised, but as we have not yet received a <dialogue> response</dialogue> from the <body>administration</body> about their disposition we consider it worthwhile to reiterate them. 
         </intro> 
         <demand1>
-            <sit><time>After third year</time>, <body><persons>graduate students</persons></body> are no longer guaranteed <aid>on-campus housing</aid></sit>. The most common destinations for these individuals are <place>Philadelphia</place> and <place> New York City</place>. In the state of <place>Pennsylvania</place>, there are <iss>no <authority>laws</authority> protecting against discrimination on the basis of <identity>sexual orientation</identity> or <identity>gender identity</identity></iss>. This includes <iss>housing discrimination</iss>. Even though the <place>city of New York</place> has <authority>ordinances</authority> aiming to prevent this, the search for apartments is fraught with additional risks for <comm>LGBTQIA+ people</comm>; <iss>there is a constant need to screen potential <persons>roommates</persons> and <persons>landlords</persons> for <marg>homophobic</marg> or <marg>transphobic</marg> attitudes in order to avoid not only discrimination but also harassment</iss>. Additionally, <iss><comm><body>graduate students</body> of color</comm> must negotiate around <marg>racism</marg> during housing searches</iss>. This not only places a considerable burden on <body>graduate students<body> in the form of the <resource>time</resource> involved in such housing searches, but also restricts their ability to find <resource>affordable</resource> housing off campus. Therefore, we consider it paramount that the <institution>Graduate School</institution> and the <body><institution>University's</institution> housing administration</body> renew their commitment to providing <resource>affordable</resource> <aid>on-campus housing</aid> sufficient to meet <body>graduate student</body> demand. <aid>Information</aid> about housing and housing options should also be more effectively distributed to new <body>graduate students</body>. 
+	<sit>
+		<time>After third year</time>, 
+		<body>
+			<persons>graduate students</persons>
+		</body> are no longer guaranteed 
+		<aid>on-campus housing</aid>
+	</sit>. The most common destinations for these individuals are 
+	<place>Philadelphia</place> and 
+	<place> New York City</place>. In the state of 
+	<place>Pennsylvania</place>, there are 
+	<iss>no 
+		<authority>laws</authority> protecting against discrimination on the basis of 
+		<identity>sexual orientation</identity> or 
+		<identity>gender identity</identity>
+	</iss>. This includes 
+	<iss>housing discrimination</iss>. Even though the 
+	<place>city of New York</place> has 
+	<authority>ordinances</authority> aiming to prevent this, the search for apartments is fraught with additional risks for 
+	<comm>LGBTQIA+ people</comm>; 
+	<iss>there is a constant need to screen potential 
+		<persons>roommates</persons> and 
+		<persons>landlords</persons> for 
+		<marg>homophobic</marg> or 
+		<marg>transphobic</marg> attitudes in order to avoid not only discrimination but also harassment
+	</iss>. Additionally, 
+	<iss>
+		<comm>
+			<body>graduate students</body> of color
+		</comm> must negotiate around 
+		<marg>racism</marg> during housing searches
+	</iss>. This not only places a considerable burden on 
+	<body>graduate students
+		<body> in the form of the 
+			<resource>time</resource> involved in such housing searches, but also restricts their ability to find 
+			<resource>affordable</resource> housing off campus. Therefore, we consider it paramount that the 
+			<institution>Graduate School</institution> and the 
+			<body>
+				<institution>University's</institution> housing administration
+			</body> renew their commitment to providing 
+			<resource>affordable</resource>
+			<aid>on-campus housing</aid> sufficient to meet 
+			<body>graduate student</body> demand. 
+			<aid>Information</aid> about housing and housing options should also be more effectively distributed to new 
+			<body>graduate students</body>. 
+        
         </demand1>
         <demand2>
             <aid><institution>Princeton's</institution> Student Health Plan</aid> is admirable in that it allows for coverage of several medical options for <comm><persons>transgender students</persons></comm>. However, the <iss><authority>official policy</authority> arbitrarily excludes certain procedures on the grounds of their being "cosmetic" without providing any rationale for the distinction</iss>. This <authority>policy</authority> is rooted in <marg>cissexism</marg> and should be revised with the participation of <comm><persons>transgender students</persons></comm> and <authority>professionals expert in transgender medicine</authority>. 
