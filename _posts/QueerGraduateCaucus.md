@@ -272,7 +272,7 @@ Physical:
 
 ## Source
 
-To find the letter by the Queer Graduate Caucus, visit the Princeton University Archives [Queer Graduate Caucus Records, 2015-2017](https://findingaids.princeton.edu/catalog/AC468)
+To find the letter by the Queer Graduate Caucus, visit the Princeton University Archives [Queer Graduate Caucus Records, 2015-2017](https://findingaids.princeton.edu/catalog/AC468). There, you can also find more of their administrative records as well as an archive of their events from that time period.
 
 
 
