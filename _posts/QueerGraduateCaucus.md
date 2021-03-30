@@ -270,4 +270,9 @@ Physical:
 * *Signature* gives credit, and a name, to the organization and leaders sponsoring 
 
 
+## Source
+
+To find the letter by the Queer Graduate Caucus, visit the Princeton University Archives [Queer Graduate Caucus Records, 2015-2017](https://findingaids.princeton.edu/catalog/AC468)
+
+
 
