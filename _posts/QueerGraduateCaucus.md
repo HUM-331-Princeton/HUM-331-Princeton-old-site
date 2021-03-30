@@ -252,22 +252,22 @@ Because this document is born digital, there is no picture of it attached to the
 For my tags, I focused on three main types: primary actors (in the sense of who is involved or addressed), the issues being addressed (about diversity and inclusion), and the structure of the document.
 
 Primary actors:
-* <body> **body** </body> calls attention to organizational structures of people that make up the institution and other organizations; bodies indicate dialogue and engagement
-* <inst> **institution** </inst> is used to refer to the structural power (Princeton in this case), which tends to be unresponsive (as outlined at the beginning of the letter)
-* <org> **organizations** </org> indicates groups that seek to address the problems identified (activist and advocacy groups)
-* <comm> **community** </comm> shows the people being affected by these policies, introducing a human element to this otherwise structural interaction (organization to institution)
-* <position> **position** </position> is a more general tag to indicate some level of power within either an organization, body, or institution; also serves to humanize
+* <body> *body* </body> calls attention to organizational structures of people that make up the institution and other organizations; bodies indicate dialogue and engagement
+* <inst> *institution* </inst> is used to refer to the structural power (Princeton in this case), which tends to be unresponsive (as outlined at the beginning of the letter)
+* <org> *organizations* </org> indicates groups that seek to address the problems identified (activist and advocacy groups)
+* <comm> *community* </comm> shows the people being affected by these policies, introducing a human element to this otherwise structural interaction (organization to institution)
+* <position> *position* </position> is a more general tag to indicate some level of power within either an organization, body, or institution; also serves to humanize
 
 Issues:
-* <sit> **situation** </sit> is used to indicate the present situation at Princeton with regards to administrative responses
-* <iss> **issue** <iss> delineates the issues that face queer graduate students
-* <marg> **marginalization** </marg> denotes when key terms for sources of discrimination are used (racism, homophobia, etc.)
-* <authority> **authority** </authority> confers a source of power from which these issues emanate and/or can be addressed
+* <sit> *situation* </sit> is used to indicate the present situation at Princeton with regards to administrative responses
+* <iss> *issue* <iss> delineates the issues that face queer graduate students
+* <marg> *marginalization* </marg> denotes when key terms for sources of discrimination are used (racism, homophobia, etc.)
+* <authority> *authority* </authority> confers a source of power from which these issues emanate and/or can be addressed
 
 Physical:
-* <intro> **introduction** </intro> outlines the past action in regards to the issues
-* <demand> **demands** </demand> that the Queer Graduate Caucus is making to Princeton/s administration; there are 4 in total and all relate to queer student wellness (health, housing, representation, spaces) 
-* <signature> **signature** </signature> gives credit, and a name, to the organization and leaders sponsoring 
+* /<intro> *introduction* /</intro> outlines the past action in regards to the issues
+* /<demand> *demands* /</demand> that the Queer Graduate Caucus is making to Princeton/s administration; there are 4 in total and all relate to queer student wellness (health, housing, representation, spaces) 
+* /<signature> *signature* /</signature> gives credit, and a name, to the organization and leaders sponsoring 
 
 
 
