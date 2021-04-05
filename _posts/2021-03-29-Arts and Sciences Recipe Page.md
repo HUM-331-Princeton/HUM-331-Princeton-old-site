@@ -1,6 +1,7 @@
 ---
 layout: post
 Author: Levi Blinder
+excerpt_separator: <!--more-->
 Title: Arts and Sciences Recipe Page
 ---
 
@@ -69,6 +70,7 @@ Title: Arts and Sciences Recipe Page
 ...
 </doc>
 ```
+<!--more-->
 ### What aspects of the document do I want to tag for a researcher?
 
 I wanted to capture aspects of the writing itself -- what role a word or phrase played in the recipe -- but also aspects of the physical  presentation of the text.
