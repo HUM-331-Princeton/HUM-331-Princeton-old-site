@@ -4,7 +4,7 @@ Author: Levi Blinder
 excerpt_separator: <!--more-->
 Title: Arts and Sciences Recipe Page
 ---
-
+[Link to original recipe](https://fromthepage.com/upenn/kislak-center-recipe-books/arts-and-sciences-manuscript-chemistry/display/1185878)
 ```
 <doc>
 ...
