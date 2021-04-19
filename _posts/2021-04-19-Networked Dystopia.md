@@ -45,11 +45,12 @@ Through this process, I began to realize the surprising complexity of my questio
 Below are images of the full network and zoomed-in images of the network:
 
 ![Full Network](https://github.com/sophiegoldman/images/blob/main/fullgraph.png?raw=true)
-![Alternate and Fictional Subgroup](https://github.com/sophiegoldman/images/blob/main/alternate-fictional.png?raw=true)
-![Future Locations Subgroup](https://github.com/sophiegoldman/images/blob/main/future-locations.png?raw=true)
-![Virtual and Unspecified Subgroup](https://github.com/sophiegoldman/images/blob/main/virtual-unspecified.png?raw=true)
 ![Earth, Space, and Future US Subgroup](https://github.com/sophiegoldman/images/blob/main/earth-space-futureus.png?raw=true)
-![Modern Locations Subgroup](https://github.com/sophiegoldman/images/blob/main/modern-locations.png?raw=true)
+<img align="left" src="https://github.com/sophiegoldman/images/blob/main/future-locations.png?raw=true">
+<img align="right" width ="300"  src="https://github.com/sophiegoldman/images/blob/main/modern-locations.png?raw=true">
+<img align="left" src="https://github.com/sophiegoldman/images/blob/main/virtual-unspecified.png?raw=true">
+<img align="right" width ="300"  src="https://github.com/sophiegoldman/images/blob/main/alternate-fictional.png?raw=true">
+
 
 This network contains five subgroups. The first and largest subgroup contains all movies whose setting is Earth, Future Earth, Space, or Future United States. The other subgroups are as follows:
 - Unspecified/Virtual settings
