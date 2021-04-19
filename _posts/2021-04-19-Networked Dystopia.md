@@ -1,12 +1,15 @@
 ---
 layout: post
 author: Sophie Goldman
+excerpt_separator: <!--more-->
 title: Networked Dystopia: Exploring Setting in Dystopian Film
 ---
 
 ### What is the role of setting in dystopian movies?
 
 When considering movie genres for this assignment, I became curious about the patterns and trends in the settings of dystopian movies. In particular, I wanted to examine what types of settings were commonly seen in these types of movies and whether these settings reflected a real-world location. Often, dystopian movies reflect elements of human society and offer a criticism, warning, or other message about the future of life on Earth. Since these messages can explore threatening and alarming topics, I anticipated that dystopian movies would employ fictional locations to served as representations of life on Earth, rather than realistically establishing the movie in a particular location. However, I found that many of the movies that I analyzed take place in an explicitly familiar setting - whether on Earth, a particular country, or one city, these movies locate themselves in the audience's world.
+
+<!--more-->
 
 ### The Data
 I used [IMBD's list of feature films labeled with the keyword "dystopian,"](https://www.imdb.com/search/keyword/?keywords=dystopia&pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=bdc91cb7-0144-4906-b072-b45760c8aa67&pf_rd_r=87SV6VT6763RFZYAG8HZ&pf_rd_s=right-1&pf_rd_t=15051&pf_rd_i=genre&ref_=kw_nxt&mode=detail&page=1&title_type=movie&sort=moviemeter,asc) and analyzed the top 100 movies in the list sorted by popularity. While going through this list, I eliminated movies that did not fully embody the themes of dystopia, including fantasy movies and a documentary, as well as those whose location was not easily classifiiable, for a total of 94 movies. Since all data for this project was based on a selection of only 94 movies, there may be trends that are not well represented by this data. 
