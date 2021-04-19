@@ -40,23 +40,25 @@ Through this process, I began to realize the surprising complexity of my questio
  
  *Note 2: The cutoff of 20 years for a movie to be considered "in the future" was made arbitrarily, but can be seen as being roughly equivalent to the length of a generation.*
  
-### Analyzing the Network
+### Visualizing the Network
 
 Below are images of the full network and zoomed-in images of the network:
 
 ![Full Network](https://github.com/sophiegoldman/images/blob/main/fullgraph.png?raw=true)
-![Earth, Space, and Future US Subgroup](https://github.com/sophiegoldman/images/blob/main/earth-space-futureus.png?raw=true)
-<img align="left" src="https://github.com/sophiegoldman/images/blob/main/future-locations.png?raw=true">
-<img align="right" width ="300"  src="https://github.com/sophiegoldman/images/blob/main/modern-locations.png?raw=true">
-<img align="left" src="https://github.com/sophiegoldman/images/blob/main/virtual-unspecified.png?raw=true">
-<img align="right" width ="300"  src="https://github.com/sophiegoldman/images/blob/main/alternate-fictional.png?raw=true">
+![Earth, Space, and Future US Subgroup](https://github.com/sophiegoldman/images/blob/main/earth-space-futureus.png?raw=true) 
+<img  width = "400" src="https://github.com/sophiegoldman/images/blob/main/future-locations.png?raw=true"> 
+<img  width ="400"  src="https://github.com/sophiegoldman/images/blob/main/modern-locations.png?raw=true"> 
+<img  width = "400" src="https://github.com/sophiegoldman/images/blob/main/virtual-unspecified.png?raw=true">
+<img  width ="400"  src="https://github.com/sophiegoldman/images/blob/main/alternate-fictional.png?raw=true">
 
 
-This network contains five subgroups. The first and largest subgroup contains all movies whose setting is Earth, Future Earth, Space, or Future United States. The other subgroups are as follows:
-- Unspecified/Virtual settings
+This network contains five subgroups. The first and largest subgroup contains all movies whose setting is Earth, Future Earth, Space, or Future United States. The other subgroups are as follows, and are shown above in clockwise order starting from the top left:
+- Future countries or cities
 - Modern day countries or cities
 - Depictions of alternate Earth, alternate countries, or fictional locations meant to represent a real-world location
-- Future countries or cities
+- Unspecified/Virtual settings
+
+### Analyzing the Network
 
 First, I will address the differences between this graph and my expectations. I had predicted that many nodes would be categorized as taking place in a non-existent location. This hypothesis was based on the assumption that the creators of movies with potentially distressing messages might want to distant their audience from the plot through the use of a allegorical setting. However, in the graph, only one node was labeled as "Fictional (Representative)," and 13 nodes take place in unspecified or virtual settings. The subgroup of nodes representing "alternate" settings, or those where the historical timeline of a real-world location differs from our own, was also relatively small and only contained nine movies.
 
