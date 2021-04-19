@@ -16,6 +16,7 @@ I used plot summaries found on IMDB, Wikipedia, and fan websites to classify eac
 
 Through this process, I began to realize the surprising complexity of my question. Some movies, especially those that took place in space alone, were relatively straightforward to classify. Others, however, became much harder, as I found that two movies set in the same physical location might have entirely different settings when considering the impact of the movie's plot and time period. This led me to create multiple classification categories that separated movies between those describing an alternate past, the present, and the future. I also chose to separate the setting classifications into global, national, and city-specific levels in order to see if particular locations were more commonly used as dystopian settings. I only included edges at the most specific levels, so that while any film set in a particular city is also set in that city's country, I only included an edge between the film and its city.
 
+[The list of movies and their settings can be found here.](https://docs.google.com/spreadsheets/d/1aJKW8D20lYVDX--59RklBFRlqNi0tgz_dzQ4i5_sINY/edit?usp=sharing)
 
 #### Below is the dictionary containing the labels for the settings and a description of what criteria were used to assign that setting to a given movie:
 
@@ -33,18 +34,19 @@ Through this process, I began to realize the surprising complexity of my questio
 | Space| A movie set in outer space or on other planets. |
 
  *Note 1: Movies labeled with specific city names are primarily set in that city, with the implication that the city is equivalent to the city in the audience's Earth. Other labels that follow similar formatting to those in the table are named use the same logic, with the only difference being the name of the place itself.*
+ 
  *Note 2: The cutoff of 20 years for a movie to be considered "in the future" was made arbitrarily, but can be seen as being roughly equivalent to the length of a generation.*
  
 ### Analyzing the Network
 
 Below are images of the full network and zoomed-in images of the network:
 
-![Full Network]()
-![Alternate]()
-![Future]()
-![Virtual]()
-![Earth]()
-![US]()
+![Full Network](https://github.com/sophiegoldman/images/blob/main/fullgraph.png?raw=true)
+![Alternate and Fictional Subgroup](https://github.com/sophiegoldman/images/blob/main/alternate-fictional.png?raw=true)
+![Future Locations Subgroup](https://github.com/sophiegoldman/images/blob/main/future-locations.png?raw=true)
+![Virtual and Unspecified Subgroup](https://github.com/sophiegoldman/images/blob/main/virtual-unspecified.png?raw=true)
+![Earth, Space, and Future US Subgroup](https://github.com/sophiegoldman/images/blob/main/earth-space-futureus.png?raw=true)
+![Modern Locations Subgroup](https://github.com/sophiegoldman/images/blob/main/modern-locations.png?raw=true)
 
 This network contains five subgroups. The first and largest subgroup contains all movies whose setting is Earth, Future Earth, Space, or Future United States. The other subgroups are as follows:
 - Unspecified/Virtual settings
@@ -56,7 +58,7 @@ First, I will address the differences between this graph and my expectations. I 
 
 In constrast, the most obvious subgroup, which contains a single connected component, is the one that contains references to Earth (present and future), space, and the United States (future). Of the eight films that take place in space, all but two are also connected to a setting on Earth or in the United States. This component demonstrates the role of a global setting in dystopia. I would consider the edges leading to the "Earth" and "Future Earth" nodes to be most significant in this graph, as they reveal that dystopian films quite often intend to speak to a global audience. Furthermore, these movies do not hide their message behind a fictional or vaguely explained location, but emphasize to the viewer that the film takes place on *their* planet. Similarly, the movies that take place in a "Future United States" speak to a broad audience, especially American viewers, and can inspire direct paralles between the movie's plot and the future of the United States.
 
-Finally, the variety of specific cities referenced in this map in both the modern and futuristic subgroups reveal the ways in which dystopian movies can intentionally speak to local communities. Though very few movies are contained within each connected component, by reducing the scale of setting to a single city, a movie can connect viewers to a specific real-world location. For example, a movie that focuses on a society set in futuristic Chicago can employ elements of setting familiar to a modern viewer who has visited or lived in the city, drawing them further into the plot. However, since only large cities were singled out as the primary settings in the movies considered here, it is likely that many viewers will be able to relate to the setting without having personal familiarity.
+Finally, the variety of specific cities referenced in this graph in both the modern and futuristic subgroups reveal the ways in which dystopian movies can intentionally speak to local communities. Though very few movies are contained within each connected component, by reducing the scale of setting to a single city, a movie can connect viewers to a specific real-world location. For example, a movie that focuses on a society set in futuristic Chicago can employ elements of setting familiar to a modern viewer who has visited or lived in the city, drawing them further into the plot. However, since only large cities were singled out as the primary settings in the movies considered here, it is likely that many viewers will be able to relate to the setting without having personal familiarity.
 
 Interestingly, there were five movies that took place in Los Angeles, the most out of any specified city or country (other than Future United States). There were also additional movies that were categorized as "Future United States," but were filmed in Los Angeles (such as *In Time*) or had some mention of the city. It is not clear to me why Los Angles plays such a prominent role in dystopian settings compared to other large U.S. cities, but by mapping the network at multiple levels of geography, it is possible to begin exploring these questions.
 
@@ -66,4 +68,4 @@ While creating this network graph, I was aware of the decision making process in
 
 ### Conclusions
 
-In this networked exploration of dystopian movies and their settings, I have reconsidered my perception of these movies. While initially I imagined many of these movies as taking place in a distant, unfamiliar world meant to represent our own, in this selection of films there is a strong pattern of acknowledging the physical connections between the audience's world and the dystopian world. In doing so, these movies may be able to more effectively communicate their severe and urgent messsages to an audience. 
+In this networked exploration of dystopian movies and their settings, I have reconsidered my perception of these movies. While initially I imagined many of these movies as taking place in a distant, unfamiliar world meant to represent our own, in this selection of films there is a strong pattern of acknowledging the physical connections between the audience's world and the dystopian world. In doing so, these movies may be able to more effectively communicate their severe and urgent messsages to their audiences. 
