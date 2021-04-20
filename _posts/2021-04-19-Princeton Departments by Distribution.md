@@ -1,6 +1,6 @@
 ---
 layout: post
-Author: José Pablo Fernández García
+author: José Pablo Fernández García
 Title: Princeton University's Academic Network
 excerpt_separator: <!--more-->
 ---
