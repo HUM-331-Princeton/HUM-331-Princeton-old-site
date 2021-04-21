@@ -15,29 +15,29 @@ All of these network pictures show a lot of data, so they are naturally a bit cl
 * The connections or lack thereof between nodes (in particular those that are connected to a 'hub' node with a large number of adjacent edges) with few adjacent edges, which can be observed from the closer view for each time period's network.
 
 Broad view of letter network including letters from 1500-1650
-![1500-1650 Full Network](https://github.com/leviBlinder/HUM331-Class-Repository/blob/master/images/CytoScape1500-1650Full.png)
+![1500-1650 Full Network](https://github.com/leviBlinder/HUM331-Class-Repository/blob/master/images/CytoScape1500-1650Full.png?raw=true)
 
 Close up view of letter network including letters from 1500-1650
-![1500-1650 Close Network](https://github.com/leviBlinder/HUM331-Class-Repository/blob/master/images/CytoScape1500-1650Close.png)
+![1500-1650 Close Network](https://github.com/leviBlinder/HUM331-Class-Repository/blob/master/images/CytoScape1500-1650Close.png?raw=true)
 
 
 
 
 
 Broad view of letter network including letters from 1650-1800
-![1650-1800 Full Network](https://github.com/leviBlinder/HUM331-Class-Repository/blob/master/images/CytoScape1650-1800Full.png)
+![1650-1800 Full Network](https://github.com/leviBlinder/HUM331-Class-Repository/blob/master/images/CytoScape1650-1800Full.png?raw=true)
 
 Close up view of letter network including letters from 1650-1800
-![1650-1800 Close Network](https://github.com/leviBlinder/HUM331-Class-Repository/blob/master/images/CytoScape1650-1800Close.png)
+![1650-1800 Close Network](https://github.com/leviBlinder/HUM331-Class-Repository/blob/master/images/CytoScape1650-1800Close.png?raw=true)
 
 
 
 
 Broad view of letter network including letters from 1800-2000
-![1800-2000 Full Network](https://github.com/leviBlinder/HUM331-Class-Repository/blob/master/images/CytoScape1800-2000Full.png)
+![1800-2000 Full Network](https://github.com/leviBlinder/HUM331-Class-Repository/blob/master/images/CytoScape1800-2000Full.png?raw=true)
 
 Close up view of letter network including letters from 1800-2000
-![1800-2000 Close Network](https://github.com/leviBlinder/HUM331-Class-Repository/blob/master/images/CytoScape1800-2000Close.png)
+![1800-2000 Close Network](https://github.com/leviBlinder/HUM331-Class-Repository/blob/master/images/CytoScape1800-2000Close.png?raw=true)
 
 
 
