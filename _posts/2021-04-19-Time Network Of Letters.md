@@ -6,6 +6,7 @@ Title: Time Network Of Letters
 ---
 
 [data set](https://docs.google.com/spreadsheets/d/1QALEFpTRY5cKbKZkRepm6U9iEKpJOvoPthxA8qA_uh8/edit?usp=sharing)
+(note that Sender column was used for source node, Recipient column for target node, and Date column for edge attribute, while the other two columns were not included)
 
 For each of three time periods (1500-1650, 1650-1800, and 1800-2000), I will show a view of the entire network as well as a closer view of a particularly interesting section of the network.
 
