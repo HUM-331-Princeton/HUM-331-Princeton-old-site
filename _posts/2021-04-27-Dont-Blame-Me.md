@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Hope M. Perry
+author: Hope Perry
 excerpt_separator: <!--more-->
 title: Don't Blame Me...for Doing a Taylor Swift Project
 ---
