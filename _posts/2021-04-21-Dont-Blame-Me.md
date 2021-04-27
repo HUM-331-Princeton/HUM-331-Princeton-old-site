@@ -28,7 +28,7 @@ and then went through the track lists to decide which track fit with which theme
 When I imported it to Cytoscape and analyzed the data (after some tweaks), this
 is what I got:
 
-![https://github.com/hopem8/HUM-331-Princeton.github.io/blob/master/images/taylorswiftgraph.jpeg?raw=true]
+![cytoscape image](https://github.com/hopem8/HUM-331-Princeton.github.io/blob/master/images/taylorswiftgraph.jpeg?raw=true)
 
 The connection between songs about being and love and being happy was interesting,
 but I wouldn't really categorize it as surprising. 26 of the songs from these three
