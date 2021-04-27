@@ -1,6 +1,7 @@
 ---
 layout: post
 author: Hope M. Perry
+excerpt_separator: <!--more-->
 title: Don't Blame Me...for Doing a Taylor Swift Project
 ---
 
@@ -22,7 +23,7 @@ So, the research question I went into this project with was: Which themes are mo
 across these three particular TS albums? What themes go together in songs, and which combinations
 of moods/themes is the least common? What does that say about those tracks in particular,
 if anything?
-
+<!--more-->
 [Here's](https://docs.google.com/spreadsheets/d/1ofy5SXxoiG4CWzGEUkOjMd7Bgjhkxi2-yOlAybpoTNA/edit?usp=sharing) the spreadsheet I used to categorize the songs. I came up with a list of themes
 and then went through the track lists to decide which track fit with which theme.
 When I imported it to Cytoscape and analyzed the data (after some tweaks), this
